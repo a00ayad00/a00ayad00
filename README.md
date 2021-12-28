@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdullah Ayad</h1>
+<h3 align="center">A passionate NLP developer and Engineer from Egypt</h3>
 
-<!--
-**3bdullah-3yad/3bdullah-3yad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdullah-3yad&label=Profile%20views&color=0e75b6&style=flat" alt="3bdullah-3yad" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdullah-3yad" alt="3bdullah-3yad" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/3bdullah_3yad" target="blank"><img src="https://img.shields.io/twitter/follow/3bdullah_3yad?logo=twitter&style=for-the-badge" alt="3bdullah_3yad" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/3bdullah-3yad](https://github.com/3bdullah-3yad)
+
+- 📫 How to reach me *3bdullah3yad@gmail.com*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/3bdullah_3yad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bdullah_3yad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87-%d8%b9%d9%8a%d8%a7%d8%af-277077209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87-%d8%b9%d9%8a%d8%a7%d8%af-277077209" height="30" width="40" /></a>
+<a href="https://kaggle.com/abdullah3yad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdullah3yad" height="30" width="40" /></a>
+<a href="https://fb.com/3bdullah.3yad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3bdullah.3yad" height="30" width="40" /></a>
+<a href="https://instagram.com/3bdullah.3yad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3bdullah.3yad/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdullah-3yad&show_icons=true&locale=en&layout=compact" alt="3bdullah-3yad" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bdullah-3yad&show_icons=true&locale=en" alt="3bdullah-3yad" /></p>
