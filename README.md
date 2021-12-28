@@ -1,24 +1,21 @@
-<h1 align="center">Hi 👋, I'm Abdullah Ayad</h1>
-<h3 align="center">A passionate NLP developer and Engineer from Egypt</h3>
+### Hi there 👋, My name is Abdullah Ayad
+#### A passionate NLP developer and Engineer
+![A passionate NLP developer and Engineer](https://www.analyticsinsight.net/wp-content/uploads/2020/05/NLP.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdullah-3yad&label=Profile%20views&color=0e75b6&style=flat" alt="3bdullah-3yad" /> </p>
+I'm Ayad from Egypt.
+I started working on machine learning, deep learning, computer vision projects, then working on many NLP projects till now.
+I really learned frameworks such as TensorFlow and Keras.
 
-<p align="left"> <a href="https://twitter.com/3bdullah_3yad" target="blank"><img src="https://img.shields.io/twitter/follow/3bdullah_3yad?logo=twitter&style=for-the-badge" alt="3bdullah_3yad" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/3bdullah-3yad](https://github.com/3bdullah-3yad)
+Skills: Python
 
-- 📫 How to reach me **3bdullah3yad@gmail.com**
+- 📫 How to reach me: 3bdullah3yad@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/3bdullah_3yad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bdullah_3yad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87-%d8%b9%d9%8a%d8%a7%d8%af-277077209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87-%d8%b9%d9%8a%d8%a7%d8%af-277077209" height="30" width="40" /></a>
-<a href="https://kaggle.com/abdullah3yad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdullah3yad" height="30" width="40" /></a>
-<a href="https://fb.com/3bdullah.3yad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3bdullah.3yad" height="30" width="40" /></a>
-<a href="https://instagram.com/3bdullah.3yad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3bdullah.3yad/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/3bdullah-3yad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%8A%D8%A7%D8%AF-277077209/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/3bdullah.3yad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/3bdullah.3yad//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/3bdullah_3yad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/abdullah3yad)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdullah-3yad&show_icons=true&locale=en&layout=compact" alt="3bdullah-3yad" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdullah-3yad)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=3bdullah-3yad&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/3bdullah-3yad)  
