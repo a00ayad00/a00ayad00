@@ -1,7 +1,9 @@
 ### Hi there 👋, My name is Abdullah Ayad
 #### A passionate NLP developer and Engineer
-![A passionate NLP developer and Engineer](https://media-exp1.licdn.com/dms/image/C4D16AQEV32e08QTQkA/profile-displaybackgroundimage-shrink_200_800/0/1641143730693?e=1646870400&v=beta&t=CxfwBhgApDBeWg6hTp58TeuJ0CbcnZZx7ohPvzN9AAo)
+![Ayad](https://media-exp1.licdn.com/dms/image/C4D16AQEV32e08QTQkA/profile-displaybackgroundimage-shrink_200_800/0/1641143730693?e=1646870400&v=beta&t=CxfwBhgApDBeWg6hTp58TeuJ0CbcnZZx7ohPvzN9AAo)
 
+
+### About me:
 I'm Ayad from Egypt.
 I started working on machine learning, deep learning, computer vision projects, then working on many NLP projects till now.
 I really learned frameworks such as TensorFlow and Keras.
