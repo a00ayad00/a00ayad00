@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Abdullah Ayad
 #### A passionate NLP developer and Engineer
-![A passionate NLP developer and Engineer](https://media-exp1.licdn.com/dms/image/C4D16AQFIVTNcsR_NkQ/profile-displaybackgroundimage-shrink_200_800/0/1640702242833?e=1646265600&v=beta&t=LgDNoC3iFwXa_LmhFfChyxzQAarmWA8yZFB45X_Bfr8)
+![A passionate NLP developer and Engineer](https://media-exp1.licdn.com/dms/image/C4D16AQEV32e08QTQkA/profile-displaybackgroundimage-shrink_200_800/0/1641143730693?e=1646870400&v=beta&t=CxfwBhgApDBeWg6hTp58TeuJ0CbcnZZx7ohPvzN9AAo)
 
 I'm Ayad from Egypt.
 I started working on machine learning, deep learning, computer vision projects, then working on many NLP projects till now.
