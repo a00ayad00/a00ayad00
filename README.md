@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Abdullah Ayad
-#### A passionate NLP developer and Engineer
-![Ayad](https://media-exp1.licdn.com/dms/image/C4D16AQEV32e08QTQkA/profile-displaybackgroundimage-shrink_200_800/0/1641143730693?e=1646870400&v=beta&t=CxfwBhgApDBeWg6hTp58TeuJ0CbcnZZx7ohPvzN9AAo)
+#### Machine Learning Engineer
 
 
 ### About me:
