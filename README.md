@@ -4,7 +4,7 @@
 
 ### About me:
 I'm Ayad from Egypt.
-I started working on machine learning, deep learning, computer vision projects, then working on many NLP projects till now.
+I'm working on Data Analysis, machine learning models, deep learning.
 I really learned frameworks such as TensorFlow and Keras.
 
 I took many courses in AI, Python, ML, DL, NLP and more and I got adopted and encouragement certifications from them like Huawei, 
