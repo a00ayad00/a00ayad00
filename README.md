@@ -2,9 +2,7 @@
 #### Machine Learning Engineer
 
 
-### About me:
-I'm Ayad from Egypt.
-I'm working on Data Analysis, machine learning models, deep learning.
+I'm working on Data, machine learning, deep learning.
 I learned DL frameworks such as TensorFlow and Keras.
 
 I took many courses in AI, Python, ML, DL, NLP and more and I got adopted and encouragement certifications from them like Huawei, 
