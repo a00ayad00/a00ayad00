@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Abdullah Ayad (You can call me Ayad)
+### Hi there 👋, I'm Ayad Ayad 🙂
 #### Machine Learning Engineer
 
 
