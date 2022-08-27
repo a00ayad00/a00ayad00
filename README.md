@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ayad Ayad 🙂
+### Hi there 👋, I'm Ayad 🙂
 #### Machine Learning Engineer
 
 
