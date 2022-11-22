@@ -1,6 +1,6 @@
-### <h3 align="center">Hi there, I'm Ayad 👋👋</h3>
-#### <h3 align="center">Machine Learning Engineer from Egypt</h3>
-
+<br><br><h3 align="center">Hi there, I'm Ayad 👋👋</h3>
+<h3 align="center">Machine Learning Engineer from Egypt</h3>
+<br><br>
 ▹ I work in machine learning, computer vision and NLP.
 <br>▹ I took many courses in the AI domain from robust sources and I was certified from them like Huawei, Udacity, Coursera and more. You can see all these in my LinkedIn certifications section from [here](https://www.linkedin.com/in/a00ayad00/) or in this folder on Google Drive from [here](https://drive.google.com/drive/folders/1X_cmWxySBnQHb001tV1Sr9Vhgt_gn2Hj).
 
