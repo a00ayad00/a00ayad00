@@ -1,5 +1,5 @@
 <br><br><h3 align="center">Hi there, I'm Ayad 👋👋</h3>
-<h3 align="center">Machine Learning Engineer from Egypt</h3>
+<h3 align="center">AI and Machine Learning Engineer, from Egypt</h3>
 <br><br>
 
 ▹ I work in machine learning, computer vision and NLP.
