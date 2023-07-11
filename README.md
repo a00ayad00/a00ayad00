@@ -9,7 +9,7 @@
 
 <br>▶ Reach me via 3bdullah3yad@gmail.com or [Telegram](https://t.me/a00ayad00)
 
-<br>▶ For those who want to learn AI and other things related to data and develop themselves, look at my repo from [here](https://github.com/a00ayad00/Resourses-and-Roadmap-for-learning)
+<br>▶ For those who want to learn AI and other things related to data and develop themselves, look at my repo from [here](https://github.com/a00ayad00/Machine-Learning-and-Data-Science-Resourses)
 
 <br><h3 align="left">Social Media:</h3>
 <p align="left">
