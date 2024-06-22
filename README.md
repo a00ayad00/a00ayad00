@@ -3,7 +3,7 @@
 <br><br>
 
 ▹ I make use my skills in machine learning, computer vision and NLP to enhance the projects.
-<br>▹ I took many courses at the AI domain from robust sources like `Huawei`, `Udacity`, `Coursera` and more, and I was certified from them. See all these certifications in my **LinkedIn Certifications** section from [here](https://www.linkedin.com/in/a00ayad00/) or in this folder on Google Drive from [here](https://drive.google.com/drive/folders/1X_cmWxySBnQHb001tV1Sr9Vhgt_gn2Hj).
+<br>▹  Certified from `AWS`, `Huawei`, `Udacity`, `Coursera` in Machine Learning. See all these certifications in my **LinkedIn Certifications** section from [here](https://www.linkedin.com/in/a00ayad00/) or in this folder on Google Drive from [here](https://drive.google.com/drive/folders/1X_cmWxySBnQHb001tV1Sr9Vhgt_gn2Hj).
 
 <br>▶ Pick up my Resume from [here](https://drive.google.com/drive/folders/1uK9V_S360gWGxeL2pX-qLV6U2qJfv1GF?usp=sharing).
 
