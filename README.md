@@ -11,6 +11,8 @@
 
 <br>▶ For those who want to learn AI and other things related to data and develop themselves, look at my repo from [here](https://github.com/a00ayad00/Machine-Learning-and-Data-Science-Resourses)
 
+<br>▶ If you want to see my End-to-End projects (From notebooks to deployment and CI-CD), search in the repositories for any project name that ends with **End-to-End** keyword. Just write in the repositories search bar the keyword or part of it.
+
 <br><h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/a00ayad00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a00ayad00" height="30" width="40" /></a>
