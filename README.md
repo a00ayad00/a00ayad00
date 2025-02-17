@@ -1,6 +1,18 @@
-<br><br><h3 align="center">Hi there, I'm Ayad 👋👋</h3>
-<h3 align="center">AI and Machine Learning Engineer, from Egypt</h3>
-<br><br>
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+
+<h3 align="center">
+  Welcome to Abdullah Ayad's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&center=true&width=435&lines=Artificial+Intelligence+Engineer;From+Egypt" alt="Typing SVG" /></a>
+</p>
+
+
+
 
 ▹ I make use my skills in machine learning, computer vision and NLP to enhance the projects.
 <br>▹  Certified from `AWS`, `Huawei`, `Udacity`, `Coursera` in Machine Learning. See all these certifications in my **LinkedIn Certifications** section from [here](https://www.linkedin.com/in/a00ayad00/) or in this folder on Google Drive from [here](https://drive.google.com/drive/folders/1X_cmWxySBnQHb001tV1Sr9Vhgt_gn2Hj).
