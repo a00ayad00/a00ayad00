@@ -1,6 +1,3 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
-
 <h3 align="center">
   Welcome to Abdullah Ayad's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
@@ -8,7 +5,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&center=true&width=435&lines=Artificial+Intelligence+Engineer;From+Egypt" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&center=true&width=435&lines=Artificial+Intelligence+Engineer;From+Egypt" alt="Typing SVG" />
+  </a>
 </p>
 
 
